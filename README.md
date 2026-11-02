@@ -34,6 +34,7 @@ A fast and clean GitHub user search app. Search developers, view their profiles,
 | ▲ [Vercel](https://vercel.com/) | Hosting and deployment |
 
 ---
+
 github-finder/
 ├── src/
 │   ├── api/          # GitHub API requests (searchUsers, getUser, follow, ...)
